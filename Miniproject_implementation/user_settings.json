@@ -1,0 +1,10 @@
+{
+  "wake_words": [
+    "computer",
+    "assistant"
+  ],
+  "speech_rate": 160,
+  "ollama_model": "gemma4",
+  "whisper_model": "small.en",
+  "always_use_llm": true
+}
