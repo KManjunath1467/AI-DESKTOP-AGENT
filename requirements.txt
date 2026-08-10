@@ -1,0 +1,12 @@
+customtkinter
+pyttsx3
+SpeechRecognition
+faster-whisper
+pyaudio
+psutil
+requests
+Pillow
+pyautogui
+numpy
+mss
+pynput

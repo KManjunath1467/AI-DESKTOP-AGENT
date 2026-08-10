@@ -1,0 +1,24 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Project specific logs and local data
+agent_log.txt
+full_session_history.txt
+agent_memory.txt
+agent_notes.txt
+alarms.json
+user_settings.json
+debug_vision.jpg
+scratch/
