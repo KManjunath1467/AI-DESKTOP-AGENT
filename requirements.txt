@@ -5,7 +5,7 @@ faster-whisper
 pyaudio
 psutil
 requests
-Pillow
+Pillow 
 pyautogui
 numpy
 mss
