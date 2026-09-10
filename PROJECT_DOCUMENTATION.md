@@ -1,7 +1,7 @@
 # Offline Accessibility AI Desktop Agent — Complete End-to-End Documentation
 
 ---
-
+ 
 ## 1. PROJECT TITLE
 **Offline Accessibility AI Desktop Agent (Skales)**
 
