@@ -1,5 +1,5 @@
 customtkinter
-pyttsx3
+pyttsx3 
 SpeechRecognition
 faster-whisper
 pyaudio
