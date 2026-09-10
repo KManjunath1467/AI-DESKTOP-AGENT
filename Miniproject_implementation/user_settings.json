@@ -1,7 +1,7 @@
 {
   "wake_words": [
     "computer",
-    "assistant"
+    "assistant" 
   ],
   "speech_rate": 160,
   "ollama_model": "gemma4",
