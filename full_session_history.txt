@@ -4,7 +4,7 @@ NEW SESSION STARTED: 2026-05-03 13:47:06
 ==================================================
 [13:47:08] Agent: Selected voice: Microsoft Zira Desktop - English (United States)
 [13:47:09] Agent: TTS Engine (SAPI5) initialized.
-[13:47:11] Agent: Initialization complete. I am ready.
+[13:47:11] Agent: Initialization complete. I am ready. 
 [13:47:24] You: How are you
 [13:47:24] System: Thinking...
 [13:47:29] System: Generating answer...
