@@ -2,7 +2,7 @@
 settings_manager.py — Persistent user settings for the Desktop Agent.
 ======================================================================
 Reads/writes user_settings.json. Merges with defaults on load.
-"""
+""" 
 
 import json
 import os
