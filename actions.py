@@ -59,7 +59,7 @@ class ActionResult:
     """Standard return type for every action function."""
     message: str
     success: bool = True
-
+ 
 
 @dataclass
 class Alarm:
