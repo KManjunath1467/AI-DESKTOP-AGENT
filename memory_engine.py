@@ -9,7 +9,7 @@ Single file: agent_memory.txt
 - Memory is kept under 24000 characters. Old details are compressed.
 - Also maintains a raw interaction log (agent_log.txt) for full history.
 """
-
+ 
 from datetime import datetime
 import threading
 from pathlib import Path
