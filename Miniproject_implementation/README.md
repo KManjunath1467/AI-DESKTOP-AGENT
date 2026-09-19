@@ -4,7 +4,7 @@
 The **Offline Accessibility AI Desktop Agent** is a sophisticated, voice-controlled, and privacy-first digital assistant designed to execute complex desktop workflows without relying on cloud APIs. Built entirely in Python and powered by local Large Language Models (LLMs) via Ollama, it provides an intelligent bridge between natural language commands and underlying Windows OS actions. With its modern "Midnight Black and Neon" CustomTkinter UI, robust vision-based screen interaction capabilities, and continuous memory engine, the agent serves as an accessible, hands-free interface for navigating the digital environment.
 
 ---
-
+ 
 ## 2. Introduction
 Traditional virtual assistants (like Cortana, Siri, or Alexa) require constant internet connectivity, risking privacy and introducing latency. This project aims to bring the intelligence of modern LLMs (like Gemma, Llama 3) directly to the local machine. By combining Speech-to-Text (STT) parsing, deep semantic intent routing, and dynamic PyAutoGUI automation, this agent can read the screen, type messages, open applications, manage files, set alarms, and answer questions entirely offline.
 
