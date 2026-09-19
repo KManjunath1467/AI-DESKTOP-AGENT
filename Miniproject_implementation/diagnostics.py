@@ -10,7 +10,7 @@ import os
 import shutil
 from typing import List, Tuple
 
-import requests
+import requests 
 
 PIP_INSTALL_NAMES = {
     "PIL": "Pillow",
