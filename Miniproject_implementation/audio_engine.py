@@ -3,7 +3,7 @@ AudioEngine — Robust Voice & STT System (SAPI5 Edition)
 -------------------------------------------------------
 - Uses Whisper for accurate English speech recognition.
 - Uses direct SAPI5 via win32com for rock-solid Windows TTS.
-- Push-to-talk: microphone is only active while a hotkey is held.
+- Push-to-talk: microphone is only active while a hotkey is held. 
 - TTS-aware: mic is suppressed while the agent is speaking.
 """
 
