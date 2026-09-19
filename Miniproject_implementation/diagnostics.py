@@ -7,7 +7,7 @@ the Ollama service, and the configured model are available.
 
 import importlib
 import os
-import shutil
+import shutil 
 from typing import List, Tuple
 
 import requests 
