@@ -5,7 +5,7 @@ Verifies that all required Python packages, the Ollama binary,
 the Ollama service, and the configured model are available.
 """
 
-import importlib
+import importlib 
 import os
 import shutil 
 from typing import List, Tuple
