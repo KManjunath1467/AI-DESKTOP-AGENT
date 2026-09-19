@@ -2,7 +2,7 @@
 llm_router.py — Total Recall Edition
 ============================================================================
 Advanced LLM Intent Routing & Vision Pipeline for the Offline Desktop Agent.
-
+ 
 KEY FEATURES:
   1. Context-First Architecture: Memory & Session history are analyzed BEFORE the user command.
   2. Multi-Pass Vision: Screen description, element grounding, and interaction verification.
