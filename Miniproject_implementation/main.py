@@ -3,7 +3,7 @@ main.py — Offline Accessibility AI Agent (Main Application)
 ============================================================
 Entry point and GUI. Responsibilities:
   - CustomTkinter dark-themed GUI with transcript, status, help panel.
-  - Voice listener startup (AudioEngine) with wake-word activation.
+  - Voice listener startup (AudioEngine) with wake-word activation. 
   - Typed command input for testing/demo.
   - Alarm daemon: background thread checks every 30 seconds for due alarms.
   - Routes every user command through llm_router.query_llm() → action handlers.
