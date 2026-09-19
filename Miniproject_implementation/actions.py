@@ -4,7 +4,7 @@ actions.py — All system actions for the Offline AI Desktop Agent.
 Covers: time, date, battery, system info, app launching, screen capture,
 mouse/keyboard control, alarms, volume, brightness, web search, wifi,
 clipboard, window management, lock/sleep/shutdown, screenshot save.
-"""
+""" 
 
 import ast
 import datetime
